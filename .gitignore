@@ -1,0 +1,28 @@
+# Vivado Temporary Files
+*.jou
+*.log
+*.str
+*.pb
+*.xml
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.Xil/
+*.webtalk/
+# Ignore Vivado generated files
+*.jou
+*.log
+*.str
+*.pb
+*.xml
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.Xil/
+*.webtalk/
+*.sim/sim_1/behav/xsim/*.log
+*.sim/sim_1/behav/xsim/*.pb
+*.sim/sim_1/behav/xsim/*.wdb
+*.sim/sim_1/behav/xsim/*.str
