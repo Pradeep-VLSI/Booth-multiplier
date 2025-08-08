@@ -1,4 +1,5 @@
 📌 Booth Multiplier Using Verilog (Final Year Project)
+
 📁 Project Description
 This project implements a signed Booth Multiplier using Verilog HDL and simulates it using Vivado Design Suite. The Booth algorithm is an efficient technique for multiplying signed binary numbers using fewer additions and subtractions.
 
